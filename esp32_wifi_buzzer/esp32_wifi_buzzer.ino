@@ -18,8 +18,8 @@
 #define C3 130
 #define G3 196
 
-const char* ssid = "TropicalRetreat-guest";
-const char* password = "wifisignal943";
+const char* ssid = "";
+const char* password = "";
 int globalState = 0;
 
 AsyncWebServer server(80);
